@@ -1,0 +1,12 @@
+D G "__PCM__" 1 2 ""5.025""
+D G "__DEVICE__" 1 2 ""
+D G "__DATE__" 1 2 ""27-Sep-20""
+D G "__TIME__" 1 2 ""07:35:32""
+D G "LED" 1 9 "PIN_A0"
+D G "DELAY" 1 10 "1000"
+F B "delay_ms" 1 0
+F B "delay_us" 1 0
+F B "delay_ms" 1 0
+F B "delay_us" 1 0
+F B "delay_ms" 1 0
+F B "delay_us" 1 0
