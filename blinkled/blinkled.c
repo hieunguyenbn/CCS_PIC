@@ -1,8 +1,5 @@
 #include <blinkled.h>
 
-#include <stdio.h>
-#include <blinkled.h>
-
 void main()
 {
 
